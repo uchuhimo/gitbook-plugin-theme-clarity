@@ -1,5 +1,7 @@
 # Clarity Theme
 
+BROKEN. not use it.
+
 Clarity theme for Gitbook designed for The Zen Approach
 
 ![Clarity](http://puu.sh/82XzM.jpg)
