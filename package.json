@@ -1,15 +1,18 @@
 {
-  "name": "gitbook-theme-clarity",
-  "version": "0.0.2",
-  "description": "Clarity Theme for Gitbook",
+  "name": "gitbook-plugin-theme-clarity",
+  "version": "1.0.2",
+  "description": "Clarity Theme for Gitbook. modified by zhangzq@github",
   "main": "index.js",
   "scripts": {
     "build": "grunt build",
     "make": "grunt build"
   },
+  "engines": {
+    "gitbook": "*"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Nijikokun/clarity.git"
+    "url": "git+https://github.com/zhangzq/gitbook-plugin-theme-clarity.git"
   },
   "author": "Nijiko Yonskai",
   "license": "MIT",
@@ -20,6 +23,10 @@
     "grunt-contrib-requirejs": "^0.4.3",
     "lunr": "^0.5.2"
   },
+  "bugs": {
+    "url": "https://github.com/zhangzq/gitbook-plugin-theme-clarity/issues"
+  },
+  "homepage": "https://github.com/zhangzq/gitbook-plugin-theme-clarity#readme",
   "keywords": [
     "clarity",
     "theme",
